@@ -2,6 +2,8 @@
 
 An HR policy chatbot rebuilt with LangChain, replacing a manual RAG implementation.
 
+**Live demo:** https://langchain-rag-pipeline.onrender.com
+
 ## What LangChain replaced
 
 | Concern | Original (`hr-ai-assistant`) | This project |
